@@ -1,0 +1,18 @@
+.ui {
+    text-align: center;
+}
+
+.text{
+    padding: 10px;
+}
+.botones{
+    display: flex;
+    justify-content:center;
+    gap: 20px;
+    border-radius: 5px;
+}
+
+.botones button{
+
+    padding:5px 10px;
+}
